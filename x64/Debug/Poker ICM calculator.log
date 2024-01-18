@@ -1,0 +1,3 @@
+﻿  Poker ICM calculator.cpp
+C:\Users\cyclo\Desktop\testcpp\Poker ICM calculator\Poker ICM calculator.cpp(38,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Poker ICM calculator.vcxproj -> C:\Users\cyclo\Desktop\testcpp\Poker ICM calculator\x64\Debug\Poker ICM calculator.exe
